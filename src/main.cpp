@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 
-#include "gnuploter.hpp"
+#include "writer.hpp"
 
 int main() {
     plt_writer p("hoge.plt");
